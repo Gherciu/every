@@ -51,7 +51,7 @@ every("pwd");
 
 #### Or you can sponsor via [Open Collective](https://opencollective.com/gherciu-gheorghe/)
 
-[![Open Collective](https://opencollective.com/gherciu-gheorghe/tiers/sponsor.svg?avatarHeight=60)](https://opencollective.com/every/)
+[![Open Collective](https://opencollective.com/gherciu-gheorghe/tiers/sponsor.svg?avatarHeight=60)](https://opencollective.com/gherciu-gheorghe/)
 
 ## Author
 
