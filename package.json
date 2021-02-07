@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Run a CLI command in every folder",
   "license": "MIT",
-  "repository": "gherciu/every-cli",
+  "repository": "gherciu/every",
   "author": {
     "name": "Gherciu Gheorghe",
     "email": "gherciu553@gmail.com",
@@ -31,7 +31,7 @@
     "fix": "xo --fix"
   },
   "keywords": [
-    "every-cli",
+    "every",
     "run-in-all-folders",
     "run",
     "bin"
