@@ -13,10 +13,9 @@ const colors = {
 };
 
 const every = command => {
-
 	if (!command.trim()) {
 		console.log(colors.Yellow, 'No CLI command provided!');
-		return
+		return;
 	}
 
 	const folders = fs.readdirSync(process.cwd(), {withFileTypes: true})
