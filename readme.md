@@ -49,9 +49,9 @@ every("pwd");
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-#### Or you can sponsor via [Open Collective](https://opencollective.com/every/)
+#### Or you can sponsor via [Open Collective](https://opencollective.com/gherciu-gheorghe/)
 
-[![Open Collective](https://opencollective.com/every/tiers/sponsor.svg?avatarHeight=60)](https://opencollective.com/every/)
+[![Open Collective](https://opencollective.com/gherciu-gheorghe/tiers/sponsor.svg?avatarHeight=60)](https://opencollective.com/every/)
 
 ## Author
 
