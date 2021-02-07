@@ -1,0 +1,46 @@
+{
+  "name": "every-cli",
+  "version": "1.0.0",
+  "description": "Run a CLI command in every folder",
+  "license": "MIT",
+  "repository": "gherciu/every-cli",
+  "author": {
+    "name": "Gherciu Gheorghe",
+    "email": "gherciu553@gmail.com",
+    "url": "https://gherciu.github.io"
+  },
+  "collective": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/gherciu-gheorghe"
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/gherciu-gheorghe"
+  },
+  "main": "./index.js",
+  "bin": {
+    "every": "./cli.js"
+  },
+  "types": "./index.d.ts",
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "test": "ava",
+    "lint": "xo",
+    "fix": "xo --fix"
+  },
+  "keywords": [
+    "every-cli",
+    "run-in-all-folders",
+    "run",
+    "bin"
+  ],
+  "dependencies": {
+    "opencollective-postinstall": "^2.0.2"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "xo": "^0.37.1"
+  }
+}
