@@ -29,17 +29,8 @@ jobs:
         uses: actions/setup-node@v2
         with:
           registry-url: "https://registry.npmjs.org"
-      - name: Publish to NPM
+      - name: Publish
         run: |
-          npm publish
+          npm publish --registry=https://registry.npmjs.org
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-      - name: Prepare .npmrc file to publish packages to GitHub registry
-        uses: actions/setup-node@v2
-        with:
-          registry-url: "https://npm.pkg.github.com"
-      - name: Publish to GitHub
-        run: |
-          npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,6 +1,6 @@
 {
   "name": "every-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Run a CLI command in every folder",
   "license": "MIT",
   "repository": "gherciu/every",
