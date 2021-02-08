@@ -55,7 +55,7 @@ every("pwd");
 
 ## Author
 
-**[@Gherciu/every](https://github.com/Gherciu/every)** :copyright: [GHERCIU](https://github.com/Gherciu), Released under the [MIT](https://github.com/Gherciu/every/blob/master/LICENSE) License.<br>
-Authored and maintained by GHERCIU with help from contributors ([list](https://github.com/Gherciu/every/contributors)).
+**[@Gherciu/every](https://github.com/Gherciu/every)** Released under the [MIT](https://github.com/Gherciu/every/blob/master/LICENSE) License.<br>
+Authored and maintained by GHERCIU GHEORGHE with help from contributors ([list](https://github.com/Gherciu/every/contributors)).
 
 #### If you like this repository star:star: and watch:eyes: on [GitHub](https://github.com/Gherciu/every)
