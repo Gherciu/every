@@ -4,6 +4,7 @@
 </div>
 
 [![GitHub](https://img.shields.io/github/license/Gherciu/every)](https://github.com/Gherciu/every/blob/master/LICENSE)
+[![ggpack](https://img.shields.io/badge/Generated%20from-gherciu%2Fggpack-green)](https://github.com/gherciu/ggpack)
 
 ## Installation
 
