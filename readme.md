@@ -28,20 +28,6 @@ $ every --help
         c:/my-projects/folder-2
 ```
 
-## Programatically usage
-
-```js
-const every = require("every");
-
-every("pwd");
-/*
-- folder-1
-  c:/my-projects/folder-1
-- folder-2
-  c:/my-projects/folder-2
-*/
-```
-
 ## Contributing
 
 1. Fork it!
